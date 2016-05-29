@@ -111,7 +111,7 @@ $bingo_control_output .= ($players * $cards) . " cartes de bingo g&eacute;n&eacu
 <html lang="fr-FR">
 <head>
 	<meta charset="UTF-8" />
-	<title>BINGO</title>
+	<title>WEBGO</title>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
 
@@ -253,7 +253,7 @@ $bingo_control_output .= ($players * $cards) . " cartes de bingo g&eacute;n&eacu
 
 <div id="current-square-played"></div>
 
-<h5>Tirer la prochaine boule:</h5>
+<h5>Tirer le prochain numéro:</h5>
 
 <div id="draw-btn"><form><input type="submit" value="DRAW"></form></div>
 
